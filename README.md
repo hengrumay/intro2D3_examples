@@ -26,3 +26,5 @@ Alternatively, you could open your terminal in the app folder and run the app wi
  * Debugger pin code: 165-194-229
 ```
 And you can point your browser to http://0.0.0.0:8080/ 
+and you should see the page looking like this:
+<img src="https://github.com/hengrumay/intro2D3_examples/blob/master/docs/app_LandingPg_ScreenShot.png">
