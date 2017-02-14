@@ -8,7 +8,7 @@ You can fork/download the folder/files locally and then open a terminal pointing
  >> python3 -m http.server --bind 0.0.0.0 8000
 ```
 
-and you can point your browser to the local host @ http://localhost:8000/   
+and you can point your browser to the local host http://0.0.0.0:8000/  
 and there will be a directory listing where you can click to display e.g.
 
 ```
