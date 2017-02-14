@@ -1,7 +1,9 @@
 # intro2D3_examples
 
 Some html/js/flask-python files created for a basic demo of D3 using Scalable Vector Graphics (SVG) for one of the investigations I did.
-In the Docs folder, you will find the relevant files.
+In the Docs folder, you will find the relevant files.  
+
+To view these files you need to activate a simple server.   
 You can fork/download the folder/files locally and then open a terminal pointing to the directory and use a simple server to run these files. 
 ```
  # >> intro2D3_examples/tree/master/docs/
