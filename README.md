@@ -7,7 +7,10 @@ You can fork/download the folder/files locally and then open a terminal pointing
  # >> intro2D3_examples/tree/master/docs/
  >> python3 -m http.server --bind 0.0.0.0 8000
 ```
-and you can point your browser to http://localhost:8000/ and there will be a directory listing where you can click to display e.g.
+
+and you can point your browser to the local host @ http://localhost:8000/   
+and there will be a directory listing where you can click to display e.g.
+
 ```
 - http://localhost:8000/h-rmtan_D3_Example_iris.html
 - http://localhost:8000/h-rmtan_D3_Examples_svg.html
