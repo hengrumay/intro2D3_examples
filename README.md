@@ -8,7 +8,7 @@ You can fork/download the folder/files locally and then open a terminal pointing
  >> python3 -m http.server --bind 0.0.0.0 8000
 ```
 
-and you can point your browser to the local host http://0.0.0.0:8000/  
+and you can point your browser to the local host http://localhost:8000/  
 and there will be a directory listing where you can click to display e.g.
 
 ```
@@ -25,6 +25,6 @@ Alternatively, you could open your terminal in the app folder and run the app wi
  * Debugger is active!
  * Debugger pin code: 165-194-229
 ```
-And you can point your browser to http://0.0.0.0:8080/ 
+And you can point your browser to http://localhost:8080/ 
 and you should see the page looking like this:
 <img src="https://github.com/hengrumay/intro2D3_examples/blob/master/docs/app_LandingPg_ScreenShot.png">
